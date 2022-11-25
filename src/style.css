@@ -7,3 +7,22 @@ h2 {
   text-align: center;
   justify-content: flex-start;
 }
+.call-to-action {
+  font-size: x-large;
+  text-align: center;
+}
+.bio-text {
+  text-align: center;
+  color: #c79288;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+  margin: 100px 0;
+  justify-content: center;
+}
+.icon-banner {
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: medium;
+  color: #f8f9fa;
+}
