@@ -7,6 +7,10 @@ h2 {
   text-align: center;
   justify-content: flex-start;
 }
+h3 {
+  font-size: 64px;
+  line-height: 1.5;
+}
 .call-to-action {
   font-size: x-large;
   text-align: center;
@@ -25,4 +29,7 @@ h2 {
   justify-content: space-evenly;
   font-size: medium;
   color: #f8f9fa;
+}
+.img-icon {
+  size: 300px 300px;
 }
